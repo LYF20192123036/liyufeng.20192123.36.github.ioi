@@ -129,19 +129,9 @@ ssh的需要通过git生成公钥，并在GitHub上配置公钥，其他的用�
 
 
 下载完成查看代码
-    
-    ![image](https://user-images.githubusercontent.com/94776326/145971259-3367ad6c-cf14-449f-b6e8-3b217a3b75a0.png)
 
-    
-    
-    
-    
-    
-    
-    
-    
-    ![image](https://user-images.githubusercontent.com/84163388/145965848-18f19104-c856-4e68-af5c-4578e20c601f.png)
 
+![image](https://user-images.githubusercontent.com/94776326/145971558-f3466a0d-3911-4bd8-89cf-8cded014f6d3.png)
 
 
 搜索功能就是直接在搜索框里面搜索可以搜索其他人的代码，自己的仓库代码还有自己的仓库
